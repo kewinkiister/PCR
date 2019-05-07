@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/fpupack.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/addsubfsm_v6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'addsubfsm_v6'
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/entities.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/multiplierfsm_v2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplierfsm_v2'
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/neuronio.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'neuronio'
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/tb_neuron.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_neuron'
