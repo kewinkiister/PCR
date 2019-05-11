@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"tb_neuron_func_synth.vhd" \
+"../../../../../../../../../../media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/fpupack.vhd" \
+"../../../../../../../../../../media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/tb_neuron.vhd" \
+
+# Do not sort compile order
+nosort

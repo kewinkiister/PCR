@@ -9,7 +9,7 @@ library IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 USE IEEE.STD_LOGIC_ARITH.ALL;
 USE IEEE.STD_LOGIC_UNSIGNED.ALL;
---use work.fpupack.all;
+use work.fpupack.all;
 
 ENTITY divNR is
 	generic(
@@ -37,7 +37,7 @@ architecture Behavioral OF divNR is
 	
 	component fixMul is
 	generic(
-		FRAC_WIDTH : integer := 18);
+		FRAC_WIDTH : integer := 27);
 	port (op_a    	 :  in std_logic_vector(FRAC_WIDTH downto 0);
 			op_b    	 :  in std_logic_vector(FRAC_WIDTH downto 0);
 			mul_out   : out std_logic_vector(FRAC_WIDTH*2+1 downto 0));

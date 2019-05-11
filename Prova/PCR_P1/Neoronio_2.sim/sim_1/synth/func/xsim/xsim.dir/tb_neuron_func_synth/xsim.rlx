@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8408316151540895502  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto fcbee865a67d42c9927ce62b53fad591 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot tb_neuron_func_synth xil_defaultlib.tb_neuron" , 
+    buildDate : "Dec  6 2018" , 
+    buildTime : "23:39:36" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/tb_neuron_func_synth/xsimk\"   \"xsim.dir/tb_neuron_func_synth/obj/xsim_0.lnx64.o\" \"xsim.dir/tb_neuron_func_synth/obj/xsim_1.lnx64.o\" \"xsim.dir/tb_neuron_func_synth/obj/xsim_2.lnx64.o\" \"xsim.dir/tb_neuron_func_synth/obj/xsim_3.lnx64.o\" \"xsim.dir/tb_neuron_func_synth/obj/xsim_4.lnx64.o\" \"xsim.dir/tb_neuron_func_synth/obj/xsim_5.lnx64.o\" \"xsim.dir/tb_neuron_func_synth/obj/xsim_6.lnx64.o\" -L\"/home/parallels/Desktop/Downloads/Vivado/2018.3/lib/lnx64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

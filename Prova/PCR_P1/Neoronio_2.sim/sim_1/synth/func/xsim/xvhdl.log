@@ -1,0 +1,13 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/PCR_P1/Neoronio_2.sim/sim_1/synth/func/xsim/tb_neuron_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'addsubfsm_v6'
+INFO: [VRFC 10-3107] analyzing entity 'addsubfsm_v6_0'
+INFO: [VRFC 10-3107] analyzing entity 'addsubfsm_v6_2'
+INFO: [VRFC 10-3107] analyzing entity 'addsubfsm_v6_3'
+INFO: [VRFC 10-3107] analyzing entity 'fixMul'
+INFO: [VRFC 10-3107] analyzing entity 'multiplierfsm_v2'
+INFO: [VRFC 10-3107] analyzing entity 'multiplierfsm_v2_1'
+INFO: [VRFC 10-3107] analyzing entity 'divNR'
+INFO: [VRFC 10-3107] analyzing entity 'neuronio'
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/fpupack.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/tb_neuron.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_neuron'

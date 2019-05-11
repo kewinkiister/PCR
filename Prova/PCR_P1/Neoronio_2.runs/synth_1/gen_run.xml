@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a12ticsg325-1L" LaunchTime="1557233468">
-  <File Type="VDS-TIMING-PB" Name="neuronio_timing_summary_synth.pb"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="neuronio_timing_summary_synth.rpt"/>
-  <File Type="RDS-DCP" Name="neuronio.dcp"/>
-  <File Type="RDS-UTIL-PB" Name="neuronio_utilization_synth.pb"/>
-  <File Type="RDS-UTIL" Name="neuronio_utilization_synth.rpt"/>
-  <File Type="RDS-PROPCONSTRS" Name="neuronio_drc_synth.rpt"/>
-  <File Type="RDS-RDS" Name="neuronio.vds"/>
-  <File Type="REPORTS-TCL" Name="neuronio_reports.tcl"/>
-  <File Type="PA-TCL" Name="neuronio.tcl"/>
+<GenRun Id="synth_1" LaunchPart="xc7a12ticsg325-1L" LaunchTime="1557537426">
+  <File Type="VDS-TIMING-PB" Name="Top_timing_summary_synth.pb"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="Top_timing_summary_synth.rpt"/>
+  <File Type="RDS-DCP" Name="Top.dcp"/>
+  <File Type="RDS-UTIL-PB" Name="Top_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="Top_utilization_synth.rpt"/>
+  <File Type="RDS-PROPCONSTRS" Name="Top_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="Top.vds"/>
+  <File Type="REPORTS-TCL" Name="Top_reports.tcl"/>
+  <File Type="PA-TCL" Name="Top.tcl"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/ip/ROMmenXir/ROMmenXir.xci">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
     <File Path="$PPRDIR/../../../../../media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/fpupack.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../../media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/entities.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/addra.vhd">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -24,12 +43,6 @@
       </FileInfo>
     </File>
     <File Path="$PSRCDIR/sources_1/new/divNR.vhd">
-      <FileInfo>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
-    <File Path="$PPRDIR/../../../../../media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/entities.vhd">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -53,15 +66,33 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
+    <File Path="$PSRCDIR/sources_1/new/Top.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
     <File Path="$PPRDIR/../../../../../media/psf/Home/Downloads/RepositórioGit/Circuitos_Reconfiguraveis/simauto/tb_neuron.vhd">
       <FileInfo>
         <Attr Name="AutoDisabled" Val="1"/>
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
+    <File Path="$PPRDIR/../../../../../media/psf/Home/Documents/MATLAB/SimAutoP1/binxir.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../../../../../media/psf/Home/Documents/MATLAB/SimAutoP1/binxul.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
     <Config>
       <Option Name="DesignMode" Val="RTL"/>
-      <Option Name="TopModule" Val="neuronio"/>
+      <Option Name="TopModule" Val="Top"/>
       <Option Name="TopAutoSet" Val="TRUE"/>
     </Config>
   </FileSet>
@@ -93,4 +124,5 @@
     <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
     <Step Id="synth_design"/>
   </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="ROMmenXul"/>
 </GenRun>
