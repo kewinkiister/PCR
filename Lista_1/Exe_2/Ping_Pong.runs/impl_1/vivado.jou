@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue May 14 21:51:41 2019
+# Process ID: 15168
+# Current directory: /home/parallels/Desktop/ProjetosVivado/Ping_Pong/Ping_Pong.runs/impl_1
+# Command line: vivado -log ping_pong_leds.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ping_pong_leds.tcl -notrace
+# Log file: /home/parallels/Desktop/ProjetosVivado/Ping_Pong/Ping_Pong.runs/impl_1/ping_pong_leds.vdi
+# Journal file: /home/parallels/Desktop/ProjetosVivado/Ping_Pong/Ping_Pong.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source ping_pong_leds.tcl -notrace

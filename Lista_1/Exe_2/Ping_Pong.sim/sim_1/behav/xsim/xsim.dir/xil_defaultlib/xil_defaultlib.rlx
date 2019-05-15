@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/parallels/Desktop/ProjetosVivado/Ping_Pong/Ping_Pong.srcs/sim_1/new/TB.vhd,1557874689,vhdl,,,,tb,,,,,,,,
+/home/parallels/Desktop/ProjetosVivado/Ping_Pong/Ping_Pong.srcs/sources_1/new/FSM.vhd,1557875036,vhdl,,,,fsm,,,,,,,,
+/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/anodo.vhd,1557181746,vhdl,,,,anodo,,,,,,,,
+/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_10Hz.vhd,1557870352,vhdl,,,,clk_10hz,,,,,,,,
+/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_40Hz.vhd,1557842716,vhdl,,,,clk_40hz,,,,,,,,
+/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/ping_pong_seq.vhd,1557187953,vhdl,,,,ping_pong_leds,,,,,,,,
+/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/seg.vhd,1557068851,vhdl,,,,seg7,,,,,,,,

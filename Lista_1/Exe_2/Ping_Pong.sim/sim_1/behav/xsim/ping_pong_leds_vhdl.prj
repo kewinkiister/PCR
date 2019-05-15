@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Ping_Pong.srcs/sources_1/new/FSM.vhd" \
+"../../../../../ping_pong_seq/ping_pong_seq.srcs/sources_1/new/anodo.vhd" \
+"../../../../../ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_10Hz.vhd" \
+"../../../../../ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_40Hz.vhd" \
+"../../../../../ping_pong_seq/ping_pong_seq.srcs/sources_1/new/seg.vhd" \
+"../../../../../ping_pong_seq/ping_pong_seq.srcs/sources_1/new/ping_pong_seq.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,54 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/anodo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'anodo'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_10Hz.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_10Hz'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_40Hz.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_40Hz'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/deslocamento.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'deslocamento'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/ping_pong_seq.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ping_pong_leds'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'seg7'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sim_1/new/TB_ping_pong.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_ping_pong'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sim_1/new/TB_ping_pong.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_ping_pong'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sim_1/new/TB_ping_pong.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_ping_pong'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/anodo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'anodo'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_10Hz.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_10Hz'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/clk_40Hz.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_40Hz'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/ping_pong_seq.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ping_pong_leds'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sim_1/new/TB_ping_pong.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sim_1/new/TB_ping_pong.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sim_1/new/TB_ping_pong.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sim_1/new/TB_ping_pong.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/ping_pong_seq.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ping_pong_leds'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/ping_pong_seq.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ping_pong_leds'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/parallels/Desktop/ProjetosVivado/ping_pong_seq/ping_pong_seq.srcs/sources_1/new/controlador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'controlador'

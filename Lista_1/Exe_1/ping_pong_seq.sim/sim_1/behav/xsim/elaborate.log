@@ -1,0 +1,24 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /home/parallels/Desktop/Downloads/Vivado/2018.3/bin/unwrapped/lnx64.o/xelab -wto 53cdffe564194692b591b6aaa8b792ba --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot TB_behav xil_defaultlib.TB -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.clk_10Hz [clk_10hz_default]
+Compiling architecture behavioral of entity xil_defaultlib.clk_40Hz [clk_40hz_default]
+Compiling architecture behavioral of entity xil_defaultlib.anodo [anodo_default]
+Compiling architecture behavioral of entity xil_defaultlib.seg7 [seg7_default]
+Compiling architecture behavioral of entity xil_defaultlib.deslocamento [deslocamento_default]
+Compiling architecture behavioral of entity xil_defaultlib.controlador [controlador_default]
+Compiling architecture behavioral of entity xil_defaultlib.ping_pong_leds [ping_pong_leds_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb
+Built simulation snapshot TB_behav
