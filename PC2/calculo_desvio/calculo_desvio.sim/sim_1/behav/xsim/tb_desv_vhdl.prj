@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../Circuitos_Reconfiguraveis/operadorFloatingPoint/fpupack.vhd" \
+"../../../../../../Circuitos_Reconfiguraveis/operadorFloatingPoint/entities.vhd" \
+"../../../../calculo_desvio.srcs/sources_1/new/desvio_velocidade.vhd" \
+"../../../../../../Circuitos_Reconfiguraveis/operadorFloatingPoint/multiplierfsm_v2.vhd" \
+"../../../../calculo_desvio.srcs/sim_1/new/tb_desv.vhd" \
+
+# Do not sort compile order
+nosort

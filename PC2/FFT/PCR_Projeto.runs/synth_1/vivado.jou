@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri May 17 08:32:38 2019
+# Process ID: 1021
+# Current directory: /home/parallels/Desktop/ProjetosVivado/PCR_Projeto/PCR_Projeto.runs/synth_1
+# Command line: vivado -log FFT.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FFT.tcl
+# Log file: /home/parallels/Desktop/ProjetosVivado/PCR_Projeto/PCR_Projeto.runs/synth_1/FFT.vds
+# Journal file: /home/parallels/Desktop/ProjetosVivado/PCR_Projeto/PCR_Projeto.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source FFT.tcl -notrace

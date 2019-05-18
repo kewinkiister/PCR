@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu May 16 22:02:57 2019
+# Process ID: 24676
+# Current directory: /home/parallels/Desktop/ProjetosVivado/PCR_Projeto/PCR_Projeto.runs/xfft_0_synth_1
+# Command line: vivado -log xfft_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source xfft_0.tcl
+# Log file: /home/parallels/Desktop/ProjetosVivado/PCR_Projeto/PCR_Projeto.runs/xfft_0_synth_1/xfft_0.vds
+# Journal file: /home/parallels/Desktop/ProjetosVivado/PCR_Projeto/PCR_Projeto.runs/xfft_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source xfft_0.tcl -notrace

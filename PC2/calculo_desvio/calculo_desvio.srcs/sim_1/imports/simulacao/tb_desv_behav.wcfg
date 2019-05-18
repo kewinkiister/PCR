@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_desv_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="entities" />
+            <top_module name="fpupack" />
+            <top_module name="tb_desv" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="2975833333fs"></ZoomStartTime>
+      <ZoomEndTime time="3070833334fs"></ZoomEndTime>
+      <Cursor1Time time="3055000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="103"></NameColumnWidth>
+      <ValueColumnWidth column_width="66"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wave_markers>
+      <marker label="" time="75000000" />
+   </wave_markers>
+   <wvobject type="logic" fp_name="/tb_desv/first_start">
+      <obj_property name="ElementShortName">first_start</obj_property>
+      <obj_property name="ObjectShortName">first_start</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_desv/next_start">
+      <obj_property name="ElementShortName">next_start</obj_property>
+      <obj_property name="ObjectShortName">next_start</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_desv/ready_sig">
+      <obj_property name="ElementShortName">ready_sig</obj_property>
+      <obj_property name="ObjectShortName">ready_sig</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_desv/reset_sig">
+      <obj_property name="ElementShortName">reset_sig</obj_property>
+      <obj_property name="ObjectShortName">reset_sig</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_desv/clk_sig">
+      <obj_property name="ElementShortName">clk_sig</obj_property>
+      <obj_property name="ObjectShortName">clk_sig</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_desv/start_sig">
+      <obj_property name="ElementShortName">start_sig</obj_property>
+      <obj_property name="ObjectShortName">start_sig</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_desv/freq_sig">
+      <obj_property name="ElementShortName">freq_sig[26:0]</obj_property>
+      <obj_property name="ObjectShortName">freq_sig[26:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_desv/vel_sig">
+      <obj_property name="ElementShortName">vel_sig[26:0]</obj_property>
+      <obj_property name="ObjectShortName">vel_sig[26:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_desv/ROMaddress">
+      <obj_property name="ElementShortName">ROMaddress[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ROMaddress[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_desv/WOMenable">
+      <obj_property name="ElementShortName">WOMenable</obj_property>
+      <obj_property name="ObjectShortName">WOMenable</obj_property>
+   </wvobject>
+</wave_config>

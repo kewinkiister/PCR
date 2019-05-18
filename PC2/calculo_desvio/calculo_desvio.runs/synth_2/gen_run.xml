@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_2" LaunchPart="xc7a35tcpg236-1" LaunchTime="1558059974">
+  <File Type="REPORTS-TCL" Name="desvio_velocidade_reports.tcl"/>
+  <File Type="PA-TCL" Name="desvio_velocidade.tcl"/>
+  <File Type="RDS-DCP" Name="desvio_velocidade.dcp"/>
+  <File Type="RDS-RDS" Name="desvio_velocidade.vds"/>
+  <File Type="RDS-UTIL-PB" Name="desvio_velocidade_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="desvio_velocidade_utilization_synth.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/operadorFloatingPoint/multiplierfsm_v2.dcp">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Circuitos_Reconfiguraveis/operadorFloatingPoint/multiplierfsm_v2.dcp"/>
+        <Attr Name="ImportTime" Val="1558049796"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/operadorFloatingPoint/fpupack.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Circuitos_Reconfiguraveis/operadorFloatingPoint/fpupack.vhd"/>
+        <Attr Name="ImportTime" Val="1558059531"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/operadorFloatingPoint/entities.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Circuitos_Reconfiguraveis/operadorFloatingPoint/entities.vhd"/>
+        <Attr Name="ImportTime" Val="1558049796"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/operadorFloatingPoint/multiplierfsm_v2.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../Circuitos_Reconfiguraveis/operadorFloatingPoint/multiplierfsm_v2.vhd"/>
+        <Attr Name="ImportTime" Val="1558049796"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/desvio_velocidade.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="desvio_velocidade"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Flow_PerfOptimized_high" Flow="Vivado Synthesis 2017"/>
+    <Step Id="synth_design">
+      <Option Id="KeepEquivalentRegisters">1</Option>
+      <Option Id="ShregMinSize">5</Option>
+      <Option Id="FsmExtraction">1</Option>
+      <Option Id="ResourceSharing">2</Option>
+      <Option Id="RepFanoutThreshold">400</Option>
+      <Option Id="NoCombineLuts">1</Option>
+    </Step>
+  </Strategy>
+</GenRun>

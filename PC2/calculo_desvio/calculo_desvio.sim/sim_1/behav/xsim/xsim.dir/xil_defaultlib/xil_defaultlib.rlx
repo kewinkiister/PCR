@@ -1,0 +1,9 @@
+0.6
+2017.4
+Dec 15 2017
+20:57:24
+/home/filipesfreitas/Circuitos_Reconfiguraveis/operadorFloatingPoint/entities.vhd,1558049796,vhdl,/home/filipesfreitas/Documentos/calculo_desvio/calculo_desvio.srcs/sources_1/new/desvio_velocidade.vhd,,,entities,,,,,,,,
+/home/filipesfreitas/Circuitos_Reconfiguraveis/operadorFloatingPoint/fpupack.vhd,1558059531,vhdl,/home/filipesfreitas/Documentos/calculo_desvio/calculo_desvio.srcs/sim_1/new/tb_desv.vhd,,,fpupack,,,,,,,,
+/home/filipesfreitas/Circuitos_Reconfiguraveis/operadorFloatingPoint/multiplierfsm_v2.vhd,1558049796,vhdl,,,,multiplierfsm_v2,,,,,,,,
+/home/filipesfreitas/Documentos/calculo_desvio/calculo_desvio.srcs/sim_1/new/tb_desv.vhd,1558092875,vhdl,,,,tb_desv,,,,,,,,
+/home/filipesfreitas/Documentos/calculo_desvio/calculo_desvio.srcs/sources_1/new/desvio_velocidade.vhd,1558059940,vhdl,,,,desvio_velocidade,,,,,,,,

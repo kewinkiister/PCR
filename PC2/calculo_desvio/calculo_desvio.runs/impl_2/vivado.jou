@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu May 16 23:27:50 2019
+# Process ID: 25036
+# Current directory: /home/filipesfreitas/Documentos/calculo_desvio/calculo_desvio.runs/impl_2
+# Command line: vivado -log desvio_velocidade.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source desvio_velocidade.tcl -notrace
+# Log file: /home/filipesfreitas/Documentos/calculo_desvio/calculo_desvio.runs/impl_2/desvio_velocidade.vdi
+# Journal file: /home/filipesfreitas/Documentos/calculo_desvio/calculo_desvio.runs/impl_2/vivado.jou
+#-----------------------------------------------------------
+source desvio_velocidade.tcl -notrace
